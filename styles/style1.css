@@ -23,6 +23,7 @@ body {
 	border-right: 0;
 	border-left: 0;
 	padding: 10px;
+	font-family: Verdana;
 }
 #navigation {
 	background-color: #EEEEEE;
@@ -41,6 +42,7 @@ html>body #navigation {
 #column_right {
 	border-left: 1px solid #E3DFE2;
 	border-color: orange;
+	font-family: Verdana;
 }
 #image {
 	margin-bottom: 10px;
