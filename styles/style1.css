@@ -40,6 +40,7 @@ html>body #navigation {
 }
 #column_right {
 	border-left: 1px solid #E3DFE2;
+	border-color: orange;
 }
 #image {
 	margin-bottom: 10px;
@@ -74,6 +75,7 @@ html>body #navigation {
 	width: 100%;
 	margin: 0;
 	padding: 0;
+	font-family: Verdana;
 }
 #navigation li {
 	float: left;
@@ -99,6 +101,9 @@ html>body #navigation {
 	margin-top: 0px;
 }
 #column_right p {
+	border-bottom-color: orange;
+	border-color: orange;
+	border-bottom: orange;
 	color: #444444;
 	margin-top: 0px;
 }
