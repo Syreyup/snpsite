@@ -40,9 +40,10 @@ html>body #navigation {
 	float: left;
 }
 #column_right {
-	border-left: 1px solid #E3DFE2;
+	border-left: 2px #FF9900 dashed;
 	border-color: orange;
 	font-family: Verdana;
+	background-color: #fff3c9;
 }
 #image {
 	margin-bottom: 10px;
