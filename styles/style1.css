@@ -40,10 +40,10 @@ html>body #navigation {
 	float: left;
 }
 #column_right {
-	font: Verdana;
+	font: 100% Verdana, Geneva, Tahoma, sans-serif;
 	border-left: 2px #FF9900 dashed;
 	border-color: orange;
-	font-family: Verdana;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	background-color: #fff3c9;
 }
 #image {
