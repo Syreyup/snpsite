@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE html>
-<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+<html dir="ltr">
 
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
@@ -9,12 +9,12 @@
 <link href="styles/style1.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
 <style type="text/css">
   @import url('https://fonts.googleapis.com/css2?family=Aldrich&display=swap');
-  @import url('https://fonts.cdnfonts.com/css/verdana');
   .auto-style3 {
 	font-family: Aldrich;
 }
 .auto-style4 {
-	margin-left: 80px;
+	margin-left: 120px;
+	font-weight: normal;
 }
 .auto-style5 {
 	margin-left: 0px;
@@ -22,6 +22,19 @@
 .auto-style6 {
 	font-family: Verdana;
 }
+.auto-style7 {
+	font-weight: normal;
+}
+.auto-style8 {
+	font-weight: normal;
+	font-size: x-small;
+	color: #808080;
+}
+.auto-style9 {
+	font-size: x-large;
+	font-family: Verdana;
+}
+ @import url('https://fonts.cdnfonts.com/css/verdana')
 </style>
 </head>
 
@@ -31,8 +44,8 @@
 <div id="container" class="auto-style5" style="width: 984px">
 	<!-- Begin Masthead -->
 	<div id="masthead">
-		<h1><a>SuperNoahPlushes</a></h1>
-		<h3 class="auto-style4">Welcome to my stupid little website!</h3>
+		<h1 class="auto-style7"><a><strong>SuperNoahPlushes</strong></a></h1>
+		<h3 class="auto-style4"><em>Welcome to my stupid little website!</em></h3>
 	</div>
 	<!-- End Masthead -->
 	<!-- Begin Navigation -->
@@ -53,14 +66,14 @@
 		<!-- Begin Left Column -->
 		<div id="column_left" style="width: 631px">
 			<!-- #BeginEditable "content" -->
-			<h2>Headline 2</h2>
-			<p>insert content here</p>
+			<h2 class="auto-style8"><em>Headline 2</em></h2>
+			<p class="auto-style9"><strong>insert content here</strong></p>
 			<!-- #EndEditable --></div>
 		<!-- End Left Column -->
 		<!-- Begin Right Column -->
 		<div id="column_right">
 			<!-- #BeginEditable "sidebar" -->
-			<h3>Headline 3</h3>
+			<h3 class="auto-style7">Headline 3</h3>
 			<p>insert content here</p>
 			<!-- #EndEditable --></div>
 		<!-- End Right Column -->
@@ -68,7 +81,8 @@
 		<div id="footer">
 			<div id="copyright">
 				<p class="auto-style3">
-  ©<span>&nbsp;</span>SNP Media 2021-2023
+  			  <em>©&nbsp;SNP Media 2021-2023
+</em>
 </p>			</div>
 			<p class="auto-style6"><a href="index.html">Home</a> | 
 			<a href="Featured%20Playlist.html">Featured Playlist</a> | 
