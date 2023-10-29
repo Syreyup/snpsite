@@ -8,6 +8,7 @@
 <!-- #EndEditable -->
 <link href="styles/style1.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
 <style type="text/css">
+  @import url("https://github.com/SuperNoahPlushes/snpsite/blob/main/fonts/_vti_cnf/aldrich-regular.ttf");
 .auto-style3 {
 	font-style: italic;
 	font-family: Aldrich;
@@ -63,11 +64,9 @@
 		<!-- Begin Footer -->
 		<div id="footer">
 			<div id="copyright">
-				<p class="auto-style3" style="font-family: 'aldrich regular'; 
-					font: italic normal normal 100% 'aldrich regular'; 
-					src: url(https://github.com/SuperNoahPlushes/snpsite/blob/main/fonts/_vti_cnf/aldrich-regular.ttf) local(aldrich regular) color: gray;">
-				©<span>&nbsp;</span>SNP Media 2021-2023</p>
-			</div>
+				<p class="auto-style3">
+  ©<span>&nbsp;</span>SNP Media 2021-2023
+</p>			</div>
 			<p><a href="index.html">Home</a> | 
 			<a href="Featured%20Playlist.html">Featured Playlist</a> | 
 			<a href="https://www.youtube.com/c/SNPMedia290">YouTube</a> |
