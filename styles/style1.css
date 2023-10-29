@@ -159,8 +159,10 @@ a:hover {
 	text-align: left;
 }
 #copyright {
+	font: Aldrich;
 	float: right;
 	text-align: right;
+	font-family: Aldrich-Regular;
 }
 #copyright p {
 	font-size: 0.85em;
