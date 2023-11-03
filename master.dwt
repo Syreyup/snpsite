@@ -9,6 +9,7 @@
 <link href="styles/style1.css" media="screen" rel="stylesheet" title="CSS" type="text/css" />
 <style type="text/css">
   @import url('https://fonts.googleapis.com/css2?family=Aldrich&display=swap');
+    @import url('https://fonts.cdnfonts.com/css/verdana');
   .auto-style3 {
 	font-family: Aldrich;
 }
@@ -34,7 +35,10 @@
 	font-size: x-large;
 	font-family: Verdana;
 }
-  @import url('https://fonts.cdnfonts.com/css/verdana');
+.auto-style10 {
+	font-family: Verdana;
+	font-weight: normal;
+}
 </style>
 </head>
 
@@ -44,7 +48,7 @@
 <div id="container" class="auto-style5" style="width: 984px">
 	<!-- Begin Masthead -->
 	<div id="masthead">
-		<h1 class="auto-style7"><a><strong>SuperNoahPlushes</strong></a></h1>
+		<h1 class="auto-style7"><strong>SuperNoahPlushes</strong></h1>
 		<h3 class="auto-style4"><em>Welcome to my stupid little website!</em></h3>
 	</div>
 	<!-- End Masthead -->
@@ -73,8 +77,8 @@
 		<!-- Begin Right Column -->
 		<div id="column_right">
 			<!-- #BeginEditable "sidebar" -->
-			<h3 class="auto-style7">Headline 3</h3>
-			<p>insert content here</p>
+			<h3 class="auto-style10">Headline 3</h3>
+			<p class="auto-style6">insert content here</p>
 			<!-- #EndEditable --></div>
 		<!-- End Right Column -->
 		<!-- Begin Footer -->
